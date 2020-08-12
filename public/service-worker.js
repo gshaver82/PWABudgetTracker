@@ -7,7 +7,6 @@ const FILES_TO_CACHE = [
     "/icons/icon-512x512.png",
     "/styles.css",
     "/manifest.webmanifest",
-    "/service-worker.js",
 ];
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
